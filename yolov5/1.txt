@@ -1,0 +1,7 @@
+conda install pytorch torchvision torchaudio pytorch-cuda=11.7 -c pytorch -c nvidia
+torch.cuda.current_device()
+torch.cuda.device_count()
+torch.cuda.get_device_name(0)
+python models/export.py --weights yolov5s-best.pt --img 640 --batch 1
+
+

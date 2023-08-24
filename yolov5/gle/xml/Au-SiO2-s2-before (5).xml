@@ -1,0 +1,28 @@
+<annotation verified="yes">
+  <folder>&#30697;&#24418;&#32435;&#31859;&#29255;</folder>
+  <filename>Au-SiO2-s2-before (5)</filename>
+  <path>D:\Desktop\&#22270;&#29255;&#25968;&#25454;&#38598;\&#30697;&#24418;&#32435;&#31859;&#29255;\Au-SiO2-s2-before (5).jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>1280</width>
+    <height>1024</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <type>robndbox</type>
+    <name>wire</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <robndbox>
+      <cx>594.4669</cx>
+      <cy>447.9396</cy>
+      <w>11.3374</w>
+      <h>125.8532</h>
+      <angle>3.091593</angle>
+    </robndbox>
+  </object>
+</annotation>

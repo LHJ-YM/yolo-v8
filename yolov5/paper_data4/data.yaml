@@ -1,0 +1,13 @@
+train: /home/LiuHJ/desktop/yolov5/paper_data4/train/images
+val: /home/LiuHJ/desktop/yolov5/paper_data4/valid/images
+test: /home/LiuHJ/desktop/yolov5/paper_data4/test/images
+
+nc: 1
+names: ['stain']
+
+roboflow:
+  workspace: lhj
+  project: stain-smnh0
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/lhj/stain-smnh0/dataset/1

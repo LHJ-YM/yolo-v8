@@ -1,0 +1,13 @@
+train: /home/LiuHJ/desktop/yolov5/nanosheet/train/images
+val: /home/LiuHJ/desktop/yolov5/nanosheet/valid/images
+test: /home/LiuHJ/desktop/yolov5/nanosheet/test/images
+
+nc: 2
+names: ['nanosheet', 'spot']
+
+roboflow:
+  workspace: lhj
+  project: nanosheet
+  version: 2
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/lhj/nanosheet/dataset/2

@@ -1,0 +1,17 @@
+/home/LiuHJ/desktop/yolov5/paper_data/images/110.jpg
+/home/LiuHJ/desktop/yolov5/paper_data/images/119.jpg
+/home/LiuHJ/desktop/yolov5/paper_data/images/125.jpg
+/home/LiuHJ/desktop/yolov5/paper_data/images/131.jpg
+/home/LiuHJ/desktop/yolov5/paper_data/images/134.jpg
+/home/LiuHJ/desktop/yolov5/paper_data/images/135.jpg
+/home/LiuHJ/desktop/yolov5/paper_data/images/140.jpg
+/home/LiuHJ/desktop/yolov5/paper_data/images/155.jpg
+/home/LiuHJ/desktop/yolov5/paper_data/images/33.jpg
+/home/LiuHJ/desktop/yolov5/paper_data/images/38.jpg
+/home/LiuHJ/desktop/yolov5/paper_data/images/43.jpg
+/home/LiuHJ/desktop/yolov5/paper_data/images/49.jpg
+/home/LiuHJ/desktop/yolov5/paper_data/images/6.jpg
+/home/LiuHJ/desktop/yolov5/paper_data/images/71.jpg
+/home/LiuHJ/desktop/yolov5/paper_data/images/85.jpg
+/home/LiuHJ/desktop/yolov5/paper_data/images/95.jpg
+/home/LiuHJ/desktop/yolov5/paper_data/images/96.jpg

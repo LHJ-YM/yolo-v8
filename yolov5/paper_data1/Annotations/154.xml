@@ -1,0 +1,26 @@
+<annotation>
+	<folder>All</folder>
+	<filename>154.jpg</filename>
+	<path>D:\Desktop\图片数据集\All\154.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>896</width>
+		<height>718</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>wire</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>544</xmin>
+			<ymin>368</ymin>
+			<xmax>584</xmax>
+			<ymax>452</ymax>
+		</bndbox>
+	</object>
+</annotation>

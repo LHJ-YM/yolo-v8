@@ -1,0 +1,8 @@
+train: paper_data3/train.txt
+val: paper_data3/val.txt
+
+nc: 2
+
+names:
+- wire
+- spot

@@ -1,0 +1,42 @@
+<annotation verified="yes">
+  <folder>&#30697;&#24418;&#32435;&#31859;&#29255;</folder>
+  <filename>s1-50Hz-1.1%-1.0&#956;W (2)-R=6.31&#956;m-nikon1</filename>
+  <path>D:\Desktop\&#22270;&#29255;&#25968;&#25454;&#38598;\&#30697;&#24418;&#32435;&#31859;&#29255;\s1-50Hz-1.1%-1.0&#956;W (2)-R=6.31&#956;m-nikon1.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>1280</width>
+    <height>1024</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <type>robndbox</type>
+    <name>wire</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <robndbox>
+      <cx>864.8191</cx>
+      <cy>508.0426</cy>
+      <w>13.8439</w>
+      <h>253.6875</h>
+      <angle>0.543311</angle>
+    </robndbox>
+  </object>
+  <object>
+    <type>robndbox</type>
+    <name>wire</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <robndbox>
+      <cx>829.9686</cx>
+      <cy>124.9244</cy>
+      <w>13.5388</w>
+      <h>359.8068</h>
+      <angle>2.286244</angle>
+    </robndbox>
+  </object>
+</annotation>
